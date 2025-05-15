@@ -1,0 +1,9 @@
+Paper Result (Apnea-ECG)	            My Model 
+Accuracy	97.0% (for 8 subjects)	    91.4%
+Precision	97.8%	                      90.3%
+Recall	97.8%	                        91.2%
+Specificity	80.0%	                    88.6%
+F1 Score	97.8%	                      90.7%
+ROC-AUC	0.98	                        0.93
+Dataset Used	Apnea-ECG (8 subjects)	Apnea-ECG (35+ subjects)
+
